@@ -1,4 +1,4 @@
-# Web Service de Envío de Correo 👋 😃
+# Web Service de Envío de Correo 👋 😃 📨
 
 \*Este es un web service desarrollado en PHP para el envío de correos electrónicos. El servicio recibe una solicitud HTTP que contiene el nombre, correo electrónico y el mensaje, valida los datos y envía un correo.
 
